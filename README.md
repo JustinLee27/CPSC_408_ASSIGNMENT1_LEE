@@ -7,6 +7,7 @@ b. 2371816
 c. justlee@chapman.edu
 d. CPSC 408-01
 e. Assignment 1
+
 2) A list of all source files submitted for the assignment
 
 main.py
